@@ -13,6 +13,8 @@ int *insert(int *a, int val, int pos)
         if (i < pos) b[i] = a[i];
         else b[i+1] = a[i];
     }
+    b[pos] = val;
+    return b;
 }
 
 int main()
