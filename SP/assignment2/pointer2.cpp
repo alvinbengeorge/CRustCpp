@@ -1,6 +1,6 @@
 //RA2211043010017 Alvin Ben George
 //EKE - K Section
-// Experiment no 2
+// Experiment no 2 References and Pointers
 
 #include<iostream>
 using namespace std;
