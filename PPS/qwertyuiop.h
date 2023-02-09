@@ -20,5 +20,3 @@ int factorial(int n)
     }
     return a;
 }
-
-
