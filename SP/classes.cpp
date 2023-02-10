@@ -6,6 +6,10 @@ class CAR {
     string name;
     double mileage;
 
+    void printMileageAndName() {
+        cout << this->name << "\n" << this->mileage << "\n\n";
+    }
+
 };
 
 int main() {
@@ -17,8 +21,8 @@ int main() {
     benz.mileage = 18.2;
     benz.name = "benz";
 
-    cout << suzuki.name << "\n" << suzuki.mileage <<  "\n\n";
-    cout << benz.name << "\n" << benz.mileage << endl;
+    benz.printMileageAndName();
+    suzuki.printMileageAndName();
 
     return 0;
 }
