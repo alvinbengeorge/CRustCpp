@@ -13,7 +13,12 @@ int main() {
     suzuki.name = "suzuki";
     suzuki.mileage = 13.4;
 
-    cout << suzuki.name << "\n" << suzuki.mileage << endl;
+    CAR benz;
+    benz.mileage = 18.2;
+    benz.name = "benz";
+
+    cout << suzuki.name << "\n" << suzuki.mileage <<  "\n\n";
+    cout << benz.name << "\n" << benz.mileage << endl;
 
     return 0;
 }
