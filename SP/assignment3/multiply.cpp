@@ -1,6 +1,7 @@
 // RA2211043010017 Alvin Ben George
 // EKE - K Section
 // Experiment no 3 Using Functions
+// Program 2 Multiply two numbers of different datatypes
 #include <iostream>
 using namespace std;
 

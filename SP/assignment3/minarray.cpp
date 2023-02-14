@@ -1,6 +1,7 @@
 // RA2211043010017 Alvin Ben George
 // EKE - K Section
 // Experiment no 3 Using Functions
+// Program 3 Pass array and print minimum number
 
 #include <iostream>
 using namespace std;
