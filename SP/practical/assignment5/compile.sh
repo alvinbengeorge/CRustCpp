@@ -5,7 +5,7 @@ do
     rm ${i%.*};
 done
 
-git diff;
+git diff
 
 git add .
 git commit -a
