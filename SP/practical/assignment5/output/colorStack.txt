@@ -1,0 +1,13 @@
+
+
+Colors in stack => 
+Green
+Blue
+Orange
+Red
+
+
+Colors in stack after removing green => 
+Blue
+Orange
+Red
