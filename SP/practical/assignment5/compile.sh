@@ -5,6 +5,8 @@ do
     rm ${i%.*};
 done
 
+git diff;
+
 git add .
 git commit -a
 git push
