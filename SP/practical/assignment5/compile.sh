@@ -4,3 +4,7 @@ do
     ./${i%.*} > output/${i%.*}.txt;
     rm ${i%.*};
 done
+
+git add .
+git commit -a
+git push
