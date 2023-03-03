@@ -1,5 +1,3 @@
-// insert values into array
-
 #include <stdio.h>
 
 int main() {
