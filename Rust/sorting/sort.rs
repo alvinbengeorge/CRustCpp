@@ -1,9 +1,9 @@
 use std::io;
-use std::mem;
 
 fn main() {
-    let mut a: [i32; 10] = [0; 10];
-    for i in 0..10{
+    let mut a: [i32; 5] = [0; 5];
+    let mut temp: i32;
+    for i in 0..5{
         match i {
             1 => println!("Enter 1st number"),
             2 => println!("Enter 2nd number"),
@@ -15,8 +15,18 @@ fn main() {
         let c: i32 = temp.trim().parse().unwrap();
         a[i] = c          
     }
+
+    //bubble sort
+    for i in 0..5 {
+        for j in 0..5 {
+            if a[i] < a[j] {
+                temp = a[i];
+                a[i] = a[j];
+                a[j] = temp;
+            }
+        }
+    }
     for elem in a.iter() {
         print!("{},", elem);
     }
-    println!("\nMemory -> {}", mem::size_of_val(&a));
 }
