@@ -43,10 +43,10 @@ void postOrder(struct node *node) {
 
 int main() {
     struct node *root = newNode(1);
-    root->left = newNode(2);
-    root->right = newNode(3);
-    root->left->left = newNode(4);
-    root->left->right = newNode(5);
+    root->left = newNode(12);
+    root->right = newNode(9);
+    root->left->left = newNode(5);
+    root->left->right = newNode(6);
 
     cout << "\nPreorder traversal: " << endl;
     preOrder(root);
