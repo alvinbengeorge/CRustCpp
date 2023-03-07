@@ -1,0 +1,6 @@
+Enter first variable: 13
+
+Enter second variable: 14
+
+First variable = 14
+Second variable = 13
