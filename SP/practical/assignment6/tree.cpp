@@ -14,7 +14,7 @@ struct node *newNode(int data) {
     node->left = NULL;
     node->right = NULL;
     return node;
-}
+};
 
 void preOrder(struct node *node) {
     if (node != NULL) {
