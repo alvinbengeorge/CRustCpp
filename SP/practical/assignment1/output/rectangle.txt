@@ -1,0 +1,4 @@
+Enter length of the rectangle: 2122
+Enter width of the reactangle: 21
+Area of the rectangle: 44562
+Perimeter of the rectangle: 4286
