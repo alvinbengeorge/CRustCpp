@@ -1,3 +1,8 @@
+// RA2211043010017 Alvin Ben George
+// EKE - K Section
+// Experiment no 7 Graph
+// Program 1 Create an adjacency matrix representation for the graph 
+
 #include<iostream>
 using namespace std;
 
@@ -32,11 +37,11 @@ class Graph {
     }
 
     void printGraph() {
-        for (int i = 0; i < numVertices; i++) {
-            cout << i << " : ";
-            for (int j = 0; j < numVertices; j++)
-                if (adjMatrix[i][j])
-                    cout << j << " ";
+        for (int i=0; i<this->numVertices; i++) {
+            cout << i << ":";
+            for (int j=0; j<this->numVertices; j++) {
+                cout << this->adjMatrix[i][j] << " ";
+            }
             cout << endl;
         }
     }
