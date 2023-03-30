@@ -1,3 +1,8 @@
+// RA2211043010017 Alvin Ben George
+// EKE - K Section
+// Experiment no 8 Token
+// Program 2 Split data into tokens with `=` as delimiter
+
 #include<iostream>
 #include<bits/stdc++.h>
 
