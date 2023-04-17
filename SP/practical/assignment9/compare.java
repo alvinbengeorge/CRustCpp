@@ -1,3 +1,8 @@
+// RA2211043010017 Alvin Ben George
+// EKE - K Section
+// Experiment no 9 JRE
+// Program 2 - Write a program to compare the sum of two numbers with 50.
+
 import java.util.*;
 
 class compare {
