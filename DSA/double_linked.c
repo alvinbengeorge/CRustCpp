@@ -7,6 +7,26 @@ struct node {
     struct node *prev
 };
 
+void print(struct node *head) {
+    struct node *temp;
+    temp = head;
+    while(temp) {
+        printf("%d ", temp->data);
+        temp = temp -> next;
+    }
+    printf("\n");
+}
+
+void insert_begin(struct node *head) {
+    struct node *newnode;
+    newnode = (struct node *)malloc(sizeof(struct node));
+    printf("Insert Data");
+    scanf("%d", &newnode->data);
+    head->prev = newnode;
+    newnode->next = head;
+    head = newnode;
+}
+
 int main() {
     struct node *head, *newnode, *tail;
     head = NULL;
@@ -26,13 +46,11 @@ int main() {
         }
         printf("Continue??\n");
         scanf("%d", &choice);
+        printf("\n");
     }
-    struct node *temp;
-    temp = head;
-    while (temp) {
-        printf("%d,", temp->data);
-        temp=temp->next;
-    }
+    print(head);
+    insert_begin(head);
+    print(head);
     
     return 0;
 }
