@@ -17,16 +17,6 @@ void print(struct node *head) {
     printf("\n");
 }
 
-void insert_begin(struct node *head) {
-    struct node *newnode;
-    newnode = (struct node *)malloc(sizeof(struct node));
-    printf("Insert Data");
-    scanf("%d", &newnode->data);
-    head->prev = newnode;
-    newnode->next = head;
-    head = newnode;
-}
-
 int main() {
     struct node *head, *newnode, *tail;
     head = NULL;
@@ -49,7 +39,13 @@ int main() {
         printf("\n");
     }
     print(head);
-    insert_begin(head);
+    // insert_begin
+    newnode = (struct node *)malloc(sizeof(struct node));
+    printf("Insert Data");
+    scanf("%d", &newnode->data);
+    head->prev = newnode;
+    newnode->next = head;
+    head = newnode;
     print(head);
     
     return 0;
