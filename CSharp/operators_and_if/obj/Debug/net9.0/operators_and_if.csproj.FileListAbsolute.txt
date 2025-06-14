@@ -1,0 +1,15 @@
+/home/alvin/Desktop/CRustCpp/CSharp/operators_and_if/obj/Debug/net9.0/operators_and_if.GeneratedMSBuildEditorConfig.editorconfig
+/home/alvin/Desktop/CRustCpp/CSharp/operators_and_if/obj/Debug/net9.0/operators_and_if.AssemblyInfoInputs.cache
+/home/alvin/Desktop/CRustCpp/CSharp/operators_and_if/obj/Debug/net9.0/operators_and_if.AssemblyInfo.cs
+/home/alvin/Desktop/CRustCpp/CSharp/operators_and_if/obj/Debug/net9.0/operators_and_if.csproj.CoreCompileInputs.cache
+/home/alvin/Desktop/CRustCpp/CSharp/operators_and_if/obj/Debug/net9.0/operators_and_if.sourcelink.json
+/home/alvin/Desktop/CRustCpp/CSharp/operators_and_if/bin/Debug/net9.0/operators_and_if
+/home/alvin/Desktop/CRustCpp/CSharp/operators_and_if/bin/Debug/net9.0/operators_and_if.deps.json
+/home/alvin/Desktop/CRustCpp/CSharp/operators_and_if/bin/Debug/net9.0/operators_and_if.runtimeconfig.json
+/home/alvin/Desktop/CRustCpp/CSharp/operators_and_if/bin/Debug/net9.0/operators_and_if.dll
+/home/alvin/Desktop/CRustCpp/CSharp/operators_and_if/bin/Debug/net9.0/operators_and_if.pdb
+/home/alvin/Desktop/CRustCpp/CSharp/operators_and_if/obj/Debug/net9.0/operators_and_if.dll
+/home/alvin/Desktop/CRustCpp/CSharp/operators_and_if/obj/Debug/net9.0/refint/operators_and_if.dll
+/home/alvin/Desktop/CRustCpp/CSharp/operators_and_if/obj/Debug/net9.0/operators_and_if.pdb
+/home/alvin/Desktop/CRustCpp/CSharp/operators_and_if/obj/Debug/net9.0/operators_and_if.genruntimeconfig.cache
+/home/alvin/Desktop/CRustCpp/CSharp/operators_and_if/obj/Debug/net9.0/ref/operators_and_if.dll

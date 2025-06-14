@@ -1,0 +1,15 @@
+/home/alvin/Desktop/CRustCpp/CSharp/MyFirstApp/bin/Debug/net9.0/MyFirstApp
+/home/alvin/Desktop/CRustCpp/CSharp/MyFirstApp/bin/Debug/net9.0/MyFirstApp.deps.json
+/home/alvin/Desktop/CRustCpp/CSharp/MyFirstApp/bin/Debug/net9.0/MyFirstApp.runtimeconfig.json
+/home/alvin/Desktop/CRustCpp/CSharp/MyFirstApp/bin/Debug/net9.0/MyFirstApp.dll
+/home/alvin/Desktop/CRustCpp/CSharp/MyFirstApp/bin/Debug/net9.0/MyFirstApp.pdb
+/home/alvin/Desktop/CRustCpp/CSharp/MyFirstApp/obj/Debug/net9.0/MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/alvin/Desktop/CRustCpp/CSharp/MyFirstApp/obj/Debug/net9.0/MyFirstApp.AssemblyInfoInputs.cache
+/home/alvin/Desktop/CRustCpp/CSharp/MyFirstApp/obj/Debug/net9.0/MyFirstApp.AssemblyInfo.cs
+/home/alvin/Desktop/CRustCpp/CSharp/MyFirstApp/obj/Debug/net9.0/MyFirstApp.csproj.CoreCompileInputs.cache
+/home/alvin/Desktop/CRustCpp/CSharp/MyFirstApp/obj/Debug/net9.0/MyFirstApp.sourcelink.json
+/home/alvin/Desktop/CRustCpp/CSharp/MyFirstApp/obj/Debug/net9.0/MyFirstApp.dll
+/home/alvin/Desktop/CRustCpp/CSharp/MyFirstApp/obj/Debug/net9.0/refint/MyFirstApp.dll
+/home/alvin/Desktop/CRustCpp/CSharp/MyFirstApp/obj/Debug/net9.0/MyFirstApp.pdb
+/home/alvin/Desktop/CRustCpp/CSharp/MyFirstApp/obj/Debug/net9.0/MyFirstApp.genruntimeconfig.cache
+/home/alvin/Desktop/CRustCpp/CSharp/MyFirstApp/obj/Debug/net9.0/ref/MyFirstApp.dll
